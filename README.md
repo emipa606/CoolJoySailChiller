@@ -1,4 +1,4 @@
-# CoolJoySailChiller
+# [CoolJoy Sail Chiller (Continued)](https://steamcommunity.com/sharedfiles/filedetails/?id=2380464653)
 
 ![Image](https://i.imgur.com/buuPQel.png)
 
@@ -6,7 +6,6 @@ Update of white_altar/McJohnsons mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1099951944
 
 ![Image](https://i.imgur.com/pufA0kM.png)
-
 	
 ![Image](https://i.imgur.com/Z4GOv8H.png)
 
@@ -17,7 +16,7 @@ V2.0
 
 - HP: 100
 - Work: 150
-- Base Size: [strike]4x4[/strike] 3x3
+- Base Size: ~~4x4~~ 3x3
 - Cost: 200 Wood Logs, 150 Leather
 - Minimum temperature: ~ 45F/7C
 
@@ -29,13 +28,12 @@ The sail chiller is very potent, almost OP, but scientifically accurate.  It coo
 
 -  See if the the error persists if you just have this mod and its requirements active.
 -  If not, try adding your other mods until it happens again.
--  Post your error-log using https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib or the standalone https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404]Uploader and command Ctrl+F12
+-  Post your error-log using [HugsLib](https://steamcommunity.com/workshop/filedetails/?id=818773962) or the standalone [Uploader](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404) and command Ctrl+F12
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
--  Use https://github.com/RimSort/RimSort/releases/latest]RimSort to sort your mods
+-  Use [RimSort](https://github.com/RimSort/RimSort/releases/latest) to sort your mods
 
+ 
 
-
-https://steamcommunity.com/sharedfiles/filedetails/changelog/2380464653]![Image](https://img.shields.io/github/v/release/emipa606/CoolJoySailChiller?label=latest%20version&style=plastic&color=9f1111&labelColor=black)
-
+[![Image](https://img.shields.io/github/v/release/emipa606/CoolJoySailChiller?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2380464653) | tags:  cooling,  technology
